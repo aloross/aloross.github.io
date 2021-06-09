@@ -1,0 +1,19 @@
+deckgo-highlight-code {
+  --deckgo-highlight-code-carbon-toolbar-display: none;
+}
+
+.blog-post h2 {
+  @apply font-header font-bold text-front text-4xl leading-none my-10;
+}
+
+.blog-post h3 {
+  @apply font-header font-bold text-front text-2xl leading-none my-3;
+}
+
+.blog-post p {
+  @apply my-2;
+}
+
+.blog-post {
+  @apply text-lg;
+}
