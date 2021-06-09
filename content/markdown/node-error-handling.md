@@ -1,7 +1,7 @@
 ---
-slug: "/blog/post1"
-date: "2019-05-04"
-title: "Gérer les erreurs dans une application NodeJS"
+slug: "/blog/gestion-erreurs-node"
+date: "2021-06-09"
+title: "La gestion des erreurs dans une application NodeJS"
 ---
 
 ## Jamais d'application sans ses erreurs

@@ -6,12 +6,12 @@ const Summary = ({ profile }) => (
   <div className="flex pb-8">
     <div className="w-1/2 pr-4 lg:pr-12 border-r border-line">
       <h5 className="font-header font-semibold text-front text-base uppercase">
-        Actuellement en Freelance
+        Développeur Web Freelance
       </h5>
       {profile.for_hire && (
         <div className="font-header font-semibold text-xs uppercase pt-2">
           <span className="inline-block w-2 h-2 rounded-full mr-1 bg-green-500"></span>
-          Disponible pour recrutement
+          Disponible
         </div>
       )}
     </div>
@@ -33,11 +33,11 @@ const Summary = ({ profile }) => (
           </a>
         </div>
         <div>
-          Découvrir Vue.JS
+          Découvrir Elm et Elixir
           <a
-            aria-label="Vue.JS website"
+            aria-label="ELM website"
             className="inline-block text-front opacity-50 hover:opacity-75 ml-2 h-4 w-4 transition-opacity duration-150"
-            href="https://vuejs.org/"
+            href="https://elm-lang.org/"
             rel="noopener noreferrer"
             target="_blank"
           >

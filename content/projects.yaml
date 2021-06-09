@@ -23,15 +23,3 @@
     - PWA
     - Offline
   image: website
-
-- name: simpdevCRM
-  url: https://github.com/adrien-louis-r/simpdevCRM
-  description: "Un CRM simple pour répondre à mes besoins : gestion de contact, devis, facturation."
-  status: en cours
-  tags:
-    - React
-    - NodeJS
-    - GraphQL
-    - PostgreSQL
-    - Tailwindcss
-  icon: website

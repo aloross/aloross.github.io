@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Page personnelle d'Adrien Louis-Rossignol",
     locale: "fr",
     title: "Adrien Louis-Rossignol",
     showThemeLogo: false,
