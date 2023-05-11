@@ -7,7 +7,7 @@
   location: Toulouse
   relocation: false
   company: En indépendant
-  for_hire: true
+  for_hire: false
   focus: Maîtriser Gatsby / S'amuser avec ELM
   focus_url: https://gatsbyjs.org
   about: |
