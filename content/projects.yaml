@@ -1,7 +1,22 @@
+- name: TheFork (Tripadvisor)
+  url: https://www.theforkmanager.com/
+  description: Développement de la platforme B2B, la mission est particulièrement axée sur la mise à disposition de statistiques pour les restaurateurs.  
+   
+    J'assure le rôle de tech lead au sein de l'équipe, ce qui implique la responsabilité des choix techniques et de la qualité du projet sur le long terme (gestion de la dette technique, planning des refactorings nécessaires, revue de code, etc.)
+  status: en cours
+  tags:
+    - React
+    - NodeJS
+    - Graphql
+    - PostgreSQL
+    - Elasticsearch
+    - Microservice
+  image: images/thefork-logo.jpg
+
 - name: Moncommercant
   url: https://www.moncommercant.net/
   description: Mise à jour de la stack technique, refactoring des API Node.js et ajout du SCA avec Stripe.
-  status: en cours
+  status: terminé
   tags:
     - React
     - NodeJS
@@ -12,7 +27,7 @@
 - name: Prestation pour Commit42
   url: https://www.commit42.com/
   description: Développement d'un outil interne pour un client tiers
-  status: en cours
+  status: terminé
   tags:
     - React
     - NodeJS

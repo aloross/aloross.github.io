@@ -1,7 +1,19 @@
+- company: TheFork
+  position: Tech lead - Freelance
+  period: Mai 2021 - aujourd'hui
+
+- company: Moncommercant
+  position: Développeur Web - Freelance
+  period: Février 2021 - Mai 2021
+
+- company: Commit42
+  position: Développeur Web - Freelance
+  period: Octobre 2020 - Février 2021
+
 - company: Freelance
   position: Développeur Web
   period: Octobre 2020 - aujourd'hui
-  url:
+  url: https://aloross.github.io/
 
 - company: Occitech
   position: Lead Développeur

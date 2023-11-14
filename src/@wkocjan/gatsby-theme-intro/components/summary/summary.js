@@ -21,11 +21,11 @@ const Summary = ({ profile }) => (
       </h5>
       <div className="font-header font-light text-xl text-front leading-tight">
         <div>
-          Maîtriser Gatsby
+          Découvrir Rust
           <a
-            aria-label="Gatsby website"
+            aria-label="Rust website"
             className="inline-block text-front opacity-50 hover:opacity-75 ml-2 h-4 w-4 transition-opacity duration-150"
-            href="https://gatsbyjs.org"
+            href="https://www.rust-lang.org/"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -33,11 +33,11 @@ const Summary = ({ profile }) => (
           </a>
         </div>
         <div>
-          Découvrir Elm et Elixir
+          Maîtriser Temporal
           <a
-            aria-label="ELM website"
+            aria-label="Temporal website"
             className="inline-block text-front opacity-50 hover:opacity-75 ml-2 h-4 w-4 transition-opacity duration-150"
-            href="https://elm-lang.org/"
+            href="https://temporal.io/"
             rel="noopener noreferrer"
             target="_blank"
           >

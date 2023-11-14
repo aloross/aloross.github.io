@@ -1,6 +1,6 @@
 - profile:
   initials: ALR
-  name: Adrien Louis-Rossignol
+  name: Adrien Louis Rossignol
   email: adrien.louis.r@gmail.com
   profession: Développeur Web
   image: images/profile.jpg
@@ -8,32 +8,34 @@
   relocation: false
   company: En indépendant
   for_hire: false
-  focus: Maîtriser Gatsby / S'amuser avec ELM
-  focus_url: https://gatsbyjs.org
+  focus: noop
+  focus_url: noop 
   about: |
     Développeur web freelance - Node.js - React - PHP
 
-    Après avoir mis un pied dans le monde du développement web il y a une dizaine d'années, je me suis rapidement focalisé sur les technologies JavaScript. Tout d'abord avec Node.js puis, depuis ma découverte de celle-ci il y a 6 ans, avec la librairie React. Ces outils m'ont suivi tout au long de ma carrière et assurent aujourd'hui le pilier de mon expertise dans le web.
+    Après avoir mis un pied dans le monde du développement web en 2013 je me suis rapidement focalisé sur les technologies JavaScript. Tout d'abord avec Node.js puis, depuis ma découverte de celle-ci en 2015, avec la librairie React. Ces outils m'ont suivi tout au long de ma carrière et assurent aujourd'hui le pilier de mon expertise dans le web.
 
-    Je possède également une bonne connaissance du domaine e-commerce avec 7 ans d'expérience sur le framework Magento. J'ai donc par extension été très souvent exposé à l'écosystème PHP grâce à Magento, mais également en étant exposé très régulièrement aux frameworks CakePHP et Symfony.
+    Je possède également une bonne connaissance du domaine e-commerce avec 7 ans d'expérience sur le framework Magento. J'ai donc par extension été très souvent exposé à l'écosystème PHP grâce à Magento, mais également avec le framework Symfony.
 
-    Après 7 années en prestations au sein d'une petite ESN dont 2 ans en tant que lead développeur, j'ai décidé de me lancer en freelance afin de m'ouvrir à de nouveaux domaines et opportunités.
+    La veille technique est un aspect de mon métier que je pratique assidument, en ce moment mes recherches sont particulièrement orientées sur les outils d'orchestration comme Temporal et sur les alternatives plus simple aux stacks JS actuelles (HTMX).
+
+    En 2020, après 7 années en prestations au sein d'une petite ESN dont 2 ans en tant que lead développeur, j'ai décidé de me lancer en freelance afin de m'ouvrir à de nouveaux domaines et opportunités.
 
   skills:
-    - JavaScript
-    - PHP
-    - HTML / CSS
-    - E-commerce
-    - Elixir
-  tools:
+    - JavaScript / TypeScript
     - React
-    - NodeJs
-    - Gatsby
+    - Node.Js
+    - SQL
+    - Conception / Archi
+    - GraphQL
+  tools:
+    - NextJs
+    - Jest
+    - Temporal
     - Git
-    - Magento
-    - Symfony
     - Docker
-
+    - Postgres / MySQL
+    - Elasticsearch
   budget:
     currency: €
     min: 2
